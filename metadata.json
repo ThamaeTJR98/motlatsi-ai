@@ -1,0 +1,7 @@
+{
+  "name": "Motlatsi AI 2.0",
+  "description": "An AI-powered assistant for teachers to bulk plan lessons, create worksheets, and generate progress reports, tailored for the Lesotho National Curriculum.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
